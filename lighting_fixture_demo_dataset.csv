@@ -1,0 +1,7 @@
+Brand,Model,Lumen Output,Color Temperature (K),Wattage (W),IP Rating,Cost (USD),Lead Time (Days),Image URL
+ABL,ABL-1001,1500,3000,20,IP65,120,10,https://example.com/images/abl-1001.jpg
+Philips,PHL-2201,1600,4000,22,IP66,130,12,https://example.com/images/phl-2201.jpg
+Cree,CRE-3301,1550,3500,21,IP65,125,11,https://example.com/images/cre-3301.jpg
+ABL,ABL-1002,1400,3000,18,IP64,115,9,https://example.com/images/abl-1002.jpg
+Philips,PHL-2202,1650,4000,23,IP66,135,13,https://example.com/images/phl-2202.jpg
+Cree,CRE-3302,1500,3500,20,IP65,120,10,https://example.com/images/cre-3302.jpg
